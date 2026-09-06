@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Tester file
+dndmsc26spring_hw1_tester.py
